@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 104038.4 32054.74" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .text {
+      fill:none;
+      stroke:black;
+      stroke-width:1524;
+      stroke-linecap:round;
+      stroke-miterlimit:12;
+      stroke-dasharray:450000 450000;
+      animation: draw 3s linear
+    }
+    .black {fill:black}
+    .load {animation: load 2s ease-in-out infinite}
+    #load1 {animation-delay:0.1s}
+    #load2 {animation-delay:0.2s}
+    #load3 {animation-delay:0.3s}
+    @keyframes draw {
+     0% {stroke-dasharray:0 450000}
+     100% {stroke-dasharray:450000 0}
+    }
+    @keyframes load {
+     0% {transform:translate(0)}
+     50% {transform:translate(85000px)}
+     100% {transform:translate(0)}
+    }
+   ]]>
+  </style>
+   <clipPath id="mask">
+    <path d="M-316.51 -49.63l104648.04 0 0 32207.22 -104648.04 254 0 -32461.22zm75083.47 9567.9c12747.2,-3962.4 4214.3,-1895.35 5077.9,1395.86 -4571.98,3494.44 -9053.82,9215.73 -14475.89,9215.73 197.02,-1879.6 562.4,-5379.2 9397.99,-10611.59z"/>
+   </clipPath>
+  <animate xlink:href="#load" attributeName="rx" begin="0s" dur="2s" values="1800; 4000; 1800; 4000; 1800" keySplines="0 1 1 0; 0 1 1 0;0 1 1 0; 0 1 1 0" repeatCount="indefinite" />
+  <animate xlink:href="#load1" attributeName="rx" begin="0.1s" dur="2s" values="1800; 4000; 1800; 4000; 1800" keySplines="0 1 1 0; 0 1 1 0;0 1 1 0; 0 1 1 0" repeatCount="indefinite" />
+  <animate xlink:href="#load2" attributeName="rx" begin="0.2s" dur="2s" values="1800; 4000; 1800; 4000; 1800" keySplines="0 1 1 0; 0 1 1 0;0 1 1 0; 0 1 1 0" repeatCount="indefinite" />
+  <animate xlink:href="#load3" attributeName="rx" begin="0.3s" dur="2s" values="1800; 4000; 1800; 4000; 1800" keySplines="0 1 1 0; 0 1 1 0;0 1 1 0; 0 1 1 0" repeatCount="indefinite" />
+ </defs>
+  <g style="clip-path:url(#mask)">
+    <path class="text" d="M8554.33 18892.15c25.4,-50.8 191.28,-219.37 119.18,-830.12 -517.71,1091.24 -1124.51,3395.52 1023.82,3395.52 3149.6,0 7771.76,-8610.01 3556,-9753.6 -6818.69,-1849.69 -11382.19,13207.28 -4978.4,14833.6 9744.43,2474.73 16256.01,-24587.2 22961.61,-19608.8 -1465.39,-7554.71 -13235.42,-3647.71 -11684,5283.2 1303.63,7504.46 6908.8,5994.4 5842,3352.8 4415.87,-725.2 -1411.49,2410.24 -2184.4,8737.6 1930.4,-2235.2 7620,-8940.8 10160,-9042.4 2540,-101.6 -6477.67,5853.23 -3759.2,9144 1930.39,2336.8 10668,-11887.2 15036.8,-9144 -4267.2,-1828.8 -10495.78,6294.65 -9448.8,8737.6 2133.58,4978.37 13106.4,-13309.6 14732,-13817.6 1016,0 -10769.58,10566.42 -7010.4,14325.6 2305.68,2305.68 9804.41,-6096 10972.81,-8026.4 -965.2,457.2 -6347.03,6430 -3860.81,8331.2 1727.17,1320.77 6422.86,-4021.58 6705.61,-3860.8 1658.88,943.26 7867.17,-2365 7366,-4622.8 -745.73,-3359.58 -11943.13,5691.23 -6908.8,8483.6 3656.11,2027.91 8516.53,-6070.03 18651.32,-13110.63 759.57,-527.66 4794.41,-2970.9 5669.07,-2477.56 -2436.37,-197.73 -89.71,5389.17 4635.61,3243.79 5383.6,-2444.24 3181.15,-6007.45 -50.79,-6756.4 -9071.53,-2102.19 -26756.4,11017.49 -20015.21,18440.4 4521.15,4978.38 19383.45,-3128.91 21945.61,-7569.2 -1017.52,2015.11 -372.54,2472.27 -3454.41,6299.2l3657.61 -6959.6c-4165.6,0 -8336.04,-664.23 -10261.61,914.4 4047.07,-1591.73 9313.34,-1049.87 14884.41,-1066.8l5130.8 0c-152.4,-3352.8 -9565.39,5228.86 -7213.6,8432.8 1909.7,2601.66 7888.15,-4876.78 6959.6,-7264.4 -683.05,-1756.34 -2454.58,935.88 250.03,1582.17 -848.29,-531.23 -145.88,-637.92 -707.23,-921.77"/>
+  </g>
+  <ellipse id="load" class="black load" cx="9000" cy="30000" rx="1800" ry="1500"/>
+  <ellipse id="load1" class="black load" cx="9000" cy="30000" rx="1800" ry="1500"/>
+  <ellipse id="load2" class="black load" cx="9000" cy="30000" rx="1800" ry="1500"/>
+  <ellipse id="load3" class="black load" cx="9000" cy="30000" rx="1800" ry="1500"/>
+  <ellipse class="black" cx="56000" cy="12000" rx="1800" ry="1500"/>
+</svg>

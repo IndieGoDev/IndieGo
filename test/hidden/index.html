@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hidden Source</title>
+</head>
+<body>
+	<script>
+
+		// Saya menggunakan 'Worker' untuk mendownload file
+		const worker = new Worker('worker.js');
+
+		// link file yg mau didownload di kirim ke worker.js
+		worker.postMessage('hidden.js');
+
+		// file hasil download akan di eksekusi di sini
+		worker.onmessage = function(e) {
+
+			// sebelum di eksekusi kita convert dulu dari base64 ke original dengan 'atob'
+			eval(atob(e.data));
+		}
+	</script>
+</body>
+</html>
