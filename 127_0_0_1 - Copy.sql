@@ -21,9 +21,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `indiego`
 --
-DROP DATABASE IF EXISTS `indiego`;
-CREATE DATABASE IF NOT EXISTS `indiego` DEFAULT CHARACTER SET utf8 COLLATE utf8_bin;
-USE `indiego`;
+CREATE DATABASE IF NOT EXISTS `id21748537_indiego` DEFAULT CHARACTER SET utf8 COLLATE utf8_bin;
+USE `id21748537_indiego`;
 
 -- --------------------------------------------------------
 
